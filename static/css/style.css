@@ -5,7 +5,7 @@ html, body
 
 body
 {
-	background-image: url("../images/img.png");
+	background-image: linear-gradient(to right, #44193a, #69234b, #902c57, #b8385e, #df485f);
 }
 
 .page-id
